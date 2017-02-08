@@ -161,5 +161,4 @@ Thanks to Christian Steiner from [http://www.cropd.at/](http://cropd.at) for cre
 Special thanks to [Jyoti Puri](https://github.com/jpuri) for the tremendous amount of work she put into this endeavor.
 
 ## License
-
-MIT
+[MIT](https://opensource.org/licenses/MIT)
